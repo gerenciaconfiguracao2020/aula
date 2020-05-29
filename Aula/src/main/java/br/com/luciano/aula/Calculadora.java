@@ -11,4 +11,7 @@ package br.com.luciano.aula;
  */
 public class Calculadora {
     
+    public int subtrair(int a, int b){
+        return a-b;
+    }
 }
